@@ -1,0 +1,28 @@
+name: REVOlution
+favicon: null
+layout_spectrum: 0.19188454933464527
+typography_spectrum: 0.8540550917387009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5685640985611826
+  lightness: 0.33100162679329515
+  saturation: 0.9719808122608811
+  rhythmicContrast: 0.7030255293939263
+purpose: []
